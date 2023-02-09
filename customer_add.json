@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "first_name": "นายแพนด้า",
+            "last_name": "แสงอุษา",
+            "telephone": "0987654321",
+            "identification_number": "1354342352345",
+            "village": "หนองบิน",
+            "home_number": "1",
+            "home_moo": "1",
+            "subdistrict": "ครับ",
+            "district": "กกกอก",
+            "province": "ขอนแก่น",
+            "postcode": "40000",
+            "nextduedate": "2566-11-2566",
+            "product_name": "รถไถ",
+            "rice_fields": 10,
+            "potato_fields": 12,
+            "cane_field": 12,
+            "cow": 1,
+            "buffalo": 1,
+            "net_income": 30000.00,
+            "have_old_machine": true,
+            "old_machine_model": "รถไถเดินตาม",
+            "old_machine_price": 10000.00,
+            "note": "ลูกค้าอยากได้ยุเด้ออาว"
+        }
+    ],
+    "message": [
+
+    ],
+    "error": ""
+}
