@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "interest_topic_name": "สนใจ",
+            "count": 150
+        },
+        {
+            "interest_topic_name": "มุ่งหวัง",
+            "count": 66
+        },
+        {
+            "interest_topic_name": "ยกเลิก",
+            "count": 20
+        }
+    ],
+    "message": [
+
+    ],
+    "error": ""
+}
